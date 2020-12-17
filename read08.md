@@ -1,9 +1,13 @@
-y reading notes for today
-there are 3 types of logical operator
+ operator:
+
 not !
+
 or **double	**
+
 and &&
-types of copmression operators
+
+
+copmression operators:
 == equal
 != not equal
 === strict equal
@@ -15,7 +19,7 @@ types of copmression operators
 we use this operators in loops if the condition is true then the loop can run
 the loop keep running till the codition is false
 
-there is 3 types of loops
+loops:
 FOR
 WHILE
 DO WHILE
