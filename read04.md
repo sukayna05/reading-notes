@@ -1,5 +1,7 @@
 
 what i've learned:
+
+
 You can specify the dimensions of images using CSS.
 
 This is very helpful when you use the same sizedimages on several pages of your site. 
