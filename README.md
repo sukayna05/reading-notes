@@ -1,18 +1,14 @@
-# reading-notes
-# The largest heading
-## The second largest heading
-###### The smallest heading
-**This is bold text**
-*This text is italicized*
-~~This was mistaken text~~
-**This text is _extremely_ important**
-***All this text is important***
-this is my gitHub account [sukayna's github](https://github.com/sukayna05)
-
-- read
-- watch
-- write
 
 
-**Are you writing reading-notes here?** 
-> yes I am 
+
+## this is my reading summary :
+
+* [my read01](https://sukayna05.github.io/reading-notes/read01)
+* [my read02](https://sukayna05.github.io/reading-notes/read02)
+* [my read03](https://sukayna05.github.io/reading-notes/read03)
+* [my read04](https://sukayna05.github.io/reading-notes/read04)
+* [my read05](https://sukayna05.github.io/reading-notes/read05)
+* [my read06](https://sukayna05.github.io/reading-notes/read06)
+* [my read07](https://sukayna05.github.io/reading-notes/read07)
+* [my read08](https://sukayna05.github.io/reading-notes/read08)
+
